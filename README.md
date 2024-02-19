@@ -74,11 +74,11 @@ Entregas:
 | 25/02 | Semana 2 |  |
 | 03/03 | Semana 3 |  |
 | 10/03 | Semana 4 | Ajustes finais |
-| 15/03 | Semana 5 | Entrega do projeto, Documentação e Vídeo com o pitch |
-| 16/03 | Semana 6 | Evento, anuncio dos TOP10, defesa do pitch |
-| 20/03 | Semana 7 | Entrega do tech challenge (pode ser o mesmo material) |
-| 20/03 | Semana 7 | Faz Fast Test Avaliativo Dados Gerados por Humanos |
-| 20/03 | Semana 7 | Faz Fast Test Avaliativo Deep & Reinforcement Learning |
+| 15/03 | Semana 4 | Entrega do projeto, Documentação e Vídeo com o pitch |
+| 16/03 | Semana 4 | Evento, anuncio dos TOP10, defesa do pitch |
+| 20/03 | Semana 5 | Entrega do tech challenge (pode ser o mesmo material) |
+| 20/03 | Semana 5 | Faz Fast Test Avaliativo Dados Gerados por Humanos |
+| 20/03 | Semana 5 | Faz Fast Test Avaliativo Deep & Reinforcement Learning |
 
 ## Tarefas
 
