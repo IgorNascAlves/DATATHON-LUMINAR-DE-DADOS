@@ -79,6 +79,10 @@ Entregas:
 | 20/03 | Semana 5 | Entrega do tech challenge (pode ser o mesmo material) |
 | 20/03 | Semana 5 | Faz Fast Test Avaliativo Dados Gerados por Humanos |
 | 20/03 | Semana 5 | Faz Fast Test Avaliativo Deep & Reinforcement Learning |
+| 20/03 | Semana   | entrega do vídeo do pitch (A ser aprovado)
+| 23/03 | Semana   | A arguição dos trabalhos (big live) (A ser aprovado)
+| 03/04 | Semana   | entrega final do trabalho (A ser aprovado)
+
 
 ## Tarefas
 
