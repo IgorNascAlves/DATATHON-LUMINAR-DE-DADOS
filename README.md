@@ -68,20 +68,13 @@ Entregas:
 
 ## Cronograma
 
-| Data | Semana | Atividade |
-| --- | --- | --- |
-| 18/02 | Semana 1 |  |
-| 25/02 | Semana 2 |  |
-| 03/03 | Semana 3 |  |
-| 10/03 | Semana 4 | Ajustes finais |
-| 15/03 | Semana 4 | Entrega do projeto, Documentação e Vídeo com o pitch |
-| 16/03 | Semana 4 | Evento, anuncio dos TOP10, defesa do pitch |
-| 20/03 | Semana 5 | Entrega do tech challenge (pode ser o mesmo material) |
-| 20/03 | Semana 5 | Faz Fast Test Avaliativo Dados Gerados por Humanos |
-| 20/03 | Semana 5 | Faz Fast Test Avaliativo Deep & Reinforcement Learning |
-| 20/03 | Semana   | entrega do vídeo do pitch (A ser aprovado)
-| 23/03 | Semana   | A arguição dos trabalhos (big live) (A ser aprovado)
-| 03/04 | Semana   | entrega final do trabalho (A ser aprovado)
+| Data | Atividade |
+| --- | --- |
+| 20/03 | Faz Fast Test Avaliativo Dados Gerados por Humanos |
+| 23/03 | Faz Fast Test Avaliativo Deep & Reinforcement Learning |
+| 27/03 | Entrega do projeto, Documentação e Vídeo com o pitch |
+| 01/04 | Evento, anuncio dos TOP10, defesa do pitch |
+| 03/04 | Entrega final do trabalho - Entrega do tech challenge (pode ser o mesmo material)|
 
 
 ## Tarefas
