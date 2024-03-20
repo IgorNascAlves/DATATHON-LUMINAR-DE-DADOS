@@ -70,8 +70,8 @@ Entregas:
 
 | Data | Atividade |
 | --- | --- |
-| 20/03 | Faz Fast Test Avaliativo Dados Gerados por Humanos |
-| 23/03 | Faz Fast Test Avaliativo Deep & Reinforcement Learning |
+| 20/03 | ~Faz Fast Test Avaliativo Dados Gerados por Humanos~ |
+| 23/03 | ~Faz Fast Test Avaliativo Deep & Reinforcement Learning~ |
 | 27/03 | Entrega do projeto, Documentação e Vídeo com o pitch |
 | 01/04 | Evento, anuncio dos TOP10, defesa do pitch |
 | 03/04 | Entrega final do trabalho - Entrega do tech challenge (pode ser o mesmo material)|
